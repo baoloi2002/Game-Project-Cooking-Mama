@@ -39,8 +39,9 @@ This project was developed using `Unity 2022.3.2f1`. Make sure you have the appr
 
 ## Trailer & Demo
 
-[Youtube - Trailer Cooking Mama](https://www.youtube.com/watch?v=SB2J1CgpAf8)
-[Youtube - Demo Cooking Mama](https://youtu.be/KWdRmlKk5tQ)
+- [Youtube - Trailer Cooking Mama](https://www.youtube.com/watch?v=SB2J1CgpAf8)
+
+- [Youtube - Demo Cooking Mama](https://youtu.be/KWdRmlKk5tQ)
 
 ## Resources
 
